@@ -1,0 +1,11 @@
+./progs.dat
+
+#pragma target fte
+
+ssdefs.qc
+sv-preamble.qc
+physics.qc
+weapons.qc
+ai.qc
+spawn.qc
+server.qc
